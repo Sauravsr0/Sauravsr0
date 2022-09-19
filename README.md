@@ -5,7 +5,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: C / C++/ C# / Java / JavaScript / Matlab
+Skills: C / C++/ C# / Java / JavaScript / Matlab / Cyber security
 
 - 🔭 I’m currently working on Acme AI as a part time freelance. 
 - 🌱 I’m currently learning PHP and HTML. 
