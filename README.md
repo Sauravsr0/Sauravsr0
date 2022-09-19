@@ -1,7 +1,7 @@
 ![I am passionate about learning new things.](https://media-exp1.licdn.com/dms/image/D4E16AQFxdfyPRbMWLw/profile-displaybackgroundimage-shrink_350_1400/0/1663607589202?e=1669248000&v=beta&t=dG1Pvi32ABq7W_UX-LpB6UArNWhUOu1ChQ91Ppb42cM)
 
-### Hi there 👋, my name is Saurav sarkar
-#### I am passionate about learning new things.
+# Hi there 👋, my name is Saurav sarkar
+### I am passionate about learning new things.
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
