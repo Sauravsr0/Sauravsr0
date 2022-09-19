@@ -1,4 +1,4 @@
-![I am passionate about learning new things.](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/273183619_1565808780459913_5120259076570760540_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=lx9A2OtwmtQAX8XYIBk&_nc_ht=scontent.fdac138-1.fna&oh=00_AT97fhZjj43Ccjxck1VP-zW9O07keri6rMmZaC3S1RVl9A&oe=632E218A)
+![I am passionate about learning new things.](https://media-exp1.licdn.com/dms/image/D4E16AQFxdfyPRbMWLw/profile-displaybackgroundimage-shrink_350_1400/0/1663607589202?e=1669248000&v=beta&t=dG1Pvi32ABq7W_UX-LpB6UArNWhUOu1ChQ91Ppb42cM)
 
 ### Hi there 👋, my name is Saurav sarkar
 #### I am passionate about learning new things.
